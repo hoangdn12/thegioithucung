@@ -1,14 +1,13 @@
 # Shop phụ kiện chó mèo
 
 
-## Demo: https://nextjs-ecommerce-six.vercel.app/
 
 
 
 
 
 ## Cài đặt phần phụ thuộc
-### `npm cài đặt`
+### `npm install`
 
 ## Kết nối với mongodb của bạn và thêm thông tin vào next.config.js
 
